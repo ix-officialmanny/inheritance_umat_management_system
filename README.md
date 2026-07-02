@@ -1,6 +1,6 @@
 # Inheritance_Umat_Management_System
 
-A minimalist Python implementation of the campus role management case study outlined in `image.png`. This project serves as a clean demonstration of core Object-Oriented Programming (OOP) concepts.
+This project serves as a clean demonstration of core Object-Oriented Programming (OOP) concepts. A minimalist Python implementation of the UMaT campus role management.
 
 ---
 
